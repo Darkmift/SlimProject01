@@ -1,0 +1,9 @@
+http://localhost/Project_Slim1/public/index.php/Hello
+
+/product/class_type/{class_type}/name={Obj_property_name}&type={Obj_property_type}&price={Obj_property_price}&date_sold={Obj_property_date_sold}&licensePlate={Obj_property_licensePlate}
+
+/product/class_type/Vehicle/name=TEST14&type=carType14&price=1.99&date_sold=unknown&licensePlate=TSTR14-CA
+
+http://localhost/Project_Slim1/public/index.php/product/class_type/Vehicle/name=TEST15&type=carType14&price=1.99&date_sold=unknown&licensePlate=TSTR14-CA
+
+http://localhost/Project_Slim1/public/index.php/product/class_type/Vehicle/name=TEST16&type=carType14&price=1.99&date_sold=unknown&licensePlate=TSTR14-CA
